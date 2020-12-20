@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(115, 196, 196);
+}
+* {box-sizing: border-box;}
+
+@media (min-width: 1200px) {
+    .card{
+        max-width: 500px;
+    }
+}     
+.placeicon {
+    font-family: fontawesome;
+}
+.card {
+    margin: 0 auto;
+    float: none; 
+    margin-bottom: 10px; 
+}

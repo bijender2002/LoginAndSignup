@@ -1,0 +1,9 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(115, 196, 196);
+}
+* {box-sizing: border-box;}
+
+ .placeicon {
+     font-family: fontawesome
+ }
